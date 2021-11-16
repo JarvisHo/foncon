@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Allow: /skin/
+Allow: /script/
+Sitemap: https://www.foncon.com.tw/sitemap.xml

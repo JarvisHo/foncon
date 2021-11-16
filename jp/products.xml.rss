@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  =============================
+  智邦生活館 - 輕鬆架站 RSS 2.0
+  =============================
+  產生器資訊
+  應用程式: Foresight v0.3.2 RSS 2.0 Generator
+  更新日期: Mar 27 16:41 CST 2007
+-->
+<rss version="2.0">
+  <channel>
+    <!-- 公司名稱 -->
+    <title>鋒剛國際科技有限公司</title>
+    <!-- 公司黃頁網站 -->
+    <link>https://www.foncon.com.tw/</link>
+    <!-- 公司簡介 -->
+    <description>  鋒剛國際科技有限公司成立於西元2008年,是專業的GPS天線及GPS相關電子零組件供應廠商,專注於GPS定位天線模組研發設計製造,品質優良,完全符合RoHS各項嚴格規定FONCONTechnologyCo.,Ltd.wasestablishedin2008.ItisaprofessionalsupplierofGPSantennasandGPS-relatedelectroniccomponents.Itfocusesontheresearchanddevelopment,designandmanufactureofGPSpositioningantennamodules,withexcellentqualityandfullcompliancewiththestrictRoHSregulations.</description>
+    <!-- 文件語言 -->
+    <language>jp</language>
+    <!-- 版權說明 -->
+    <copyright>URL©コピーライト</copyright>
+    <!-- 管理工具 -->
+    <managingEditor>Foresight v0.3.2 RSS 2.0 Generator</managingEditor>
+    <!-- 管理者 -->
+    <webMaster>URL©ホスティングサーバ</webMaster>
+    <!-- 出版日期 -->
+    <pubDate>Mon, 15 Nov 2021 16:07:27 CST</pubDate>
+    <!-- 最後製造日期 -->
+    <lastBuildDate>Mon, 15 Nov 2021 16:07:27 CST</lastBuildDate>
+    <!-- 產生器 -->
+    <generator>URL©コピーライト</generator>
+    <!-- 存活時間, 這個頻道會被快取幾分鐘 -->
+    <ttl>10080</ttl>
+	 <!-- 分類列表 -->
+		<category id="195802" level="0">TRACKING SYSTEM</category>
+		<category id="160324" level="0">GPS MODULE</category>
+		<category id="160326" level="0">GPS ANTENNA</category>
+		<category id="160327" level="0">RF CABLE Assembly</category>
+		<category id="161213" level="0">GSM - LTE4G Antenna</category>
+		<category id="161214" level="0">DVB Degital TV Antenna</category>
+	    <!-- 每一個項目的內容 -->
+        <item>
+	  <!-- 商品流水號 -->
+	  <id>685052</id>
+      <!-- 項目標題 -->
+	  <title></title>
+      <!-- 發佈時間 -->
+      <pubDate></pubDate>
+      <!-- 項目分類 -->
+      <category></category>
+	  <!-- 項目價錢 -->
+      <price></price>
+	  <!-- 項目優惠價 -->
+      <sprice></sprice>
+      <!-- 項目內容 -->
+      <description></description>
+	  <!-- 項目簡介 -->
+      <intro></intro>
+      <!-- 項目連結 -->
+      <link></link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname></hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid></guid>
+      <!-- 商品圖 -->
+          </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-U72325GPS</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 29 Nov 2015 11:22:11 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS MODULE</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSReceiver(U-BLOXU7)&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz(GPS)&amp;nbsp;CODE&amp;nbsp;C/ACode&amp;nbsp;SENSITIVITY&amp;nbsp;-160dBm&amp;nbsp;CHANNELS&amp;nbsp;50Channels&amp;nbsp;BODYSIZE&amp;nbsp;23*25*6.8mm(L*W*H)&amp;nbsp;AntennaSIZE&amp;nbsp;18*18*04mm&amp;nbsp;SUPPLYPOWERVOTAGE&amp;nbsp;5.0V&amp;nbsp;INTERFACE&amp;nbsp;1_UART(3.3V)_BaudRate:9600&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2_USB&amp;nbsp;CONNECTOR&amp;nbsp;MX125-06P_Pitch:1.25mm&amp;nbsp;NMEAOUTPUT&amp;nbsp;1Hz</description>
+	  <!-- 項目簡介 -->
+      <intro>U-BLOXU7(GPSorGLONASS)UART/USBInterfaceBODY=23*25*6.8mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_684036.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_684036.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_684036.jpg" length="6166" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-U81833GGNS</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 29 Nov 2015 11:18:29 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS MODULE</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSReceiver_DoubleSystem(U-BLOXNEO-M8N)&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz/1602MHz/1560.98MHz&amp;nbsp;CODE&amp;nbsp;C/ACode&amp;nbsp;SENSITIVITY&amp;nbsp;-160dBm&amp;nbsp;CHANNELS&amp;nbsp;50Channels&amp;nbsp;BODYSIZE&amp;nbsp;18*33*6.8mm(L*W*H)&amp;nbsp;PATCHAntennaSIZE&amp;nbsp;18*18*04mm&amp;nbsp;SUPPLYPOWERVOTAGE&amp;nbsp;3.3V&amp;nbsp;INTERFACE&amp;nbsp;1_UART(3.3V)_BaudRate:115200&amp;nbsp;&amp;nbsp;&amp;nbsp;2_USB&amp;nbsp;CONNECTOR&amp;nbsp;MX125-06P&amp;nbsp;RFCONNECTOR&amp;nbsp;MMCX-SWITCH&amp;nbsp;NMEA&amp;nbsp;OUTPUT&amp;nbsp;5Hz&amp;nbsp;</description>
+	  <!-- 項目簡介 -->
+      <intro>U-BLOXNEO-M8N(GPS/GLONASS/北斗)UART/USBInterfaceBODY=35*46*15mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_690699.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_690699.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_690699.jpg" length="7387" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT1315A</title>
+      <!-- 發佈時間 -->
+      <pubDate>Fri, 05 Aug 2016 21:34:54 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSAntenna&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz&amp;nbsp;BODYSIZE&amp;nbsp;13x15x6.8mm&amp;nbsp;AntennaSIZE&amp;nbsp;12x12x4mm&amp;nbsp;RFCoaxialCable&amp;nbsp;OD1.13mm&amp;nbsp;RFConnector&amp;nbsp;IPEX&amp;nbsp;VCC&amp;nbsp;1.8~3.3V&amp;nbsp;GAIN&amp;nbsp;20dB&amp;nbsp;NOISE&amp;nbsp;0.65dB</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPSAntennaOD1.13+IPEXBodySize:13x15x6.8mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685096.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685096.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685096.jpg" length="4862" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT1818A-GGNS</title>
+      <!-- 發佈時間 -->
+      <pubDate>Fri, 05 Aug 2016 21:34:21 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPS&amp;amp;GLONASS&amp;nbsp;Antenna&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz&amp;amp;1602MHz&amp;nbsp;BODYSIZE&amp;nbsp;18x18x6.8mm&amp;nbsp;AntennaSIZE&amp;nbsp;18x18x4mm&amp;nbsp;VCC&amp;nbsp;1.8&amp;nbsp;~3.3V&amp;nbsp;GAIN&amp;nbsp;20dB&amp;nbsp;NOISE&amp;nbsp;0.65dB&amp;nbsp;RF&amp;nbsp;CoaxialCABLE&amp;nbsp;OD1.13mm&amp;nbsp;RFCONNECTOR&amp;nbsp;IPEX</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPS+GLONASSAntennaOD1.13+ipexBodySize:18x18x6.8mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685098.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685098.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685098.jpg" length="4759" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-U72325RCV-GPS</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 29 Nov 2015 11:21:59 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS MODULE</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSReceiver_SmartAntenna(U-BLOXU7)&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz(GPS)&amp;nbsp;CODE&amp;nbsp;&amp;nbsp;C/ACode&amp;nbsp;SENSITIVITY&amp;nbsp;-160dBm&amp;nbsp;CHANNELS&amp;nbsp;50Channels&amp;nbsp;BODYSIZE&amp;nbsp;35*46*615mm(L*W*H)&amp;nbsp;AntennaSIZE&amp;nbsp;18*18*04mm&amp;nbsp;SUPPLYPOWERVOTAGE&amp;nbsp;5.0V&amp;nbsp;INTERFACE&amp;nbsp;1_UART(3.3V)_BaudRate:115200&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2_USB&amp;nbsp;CONNECTOR&amp;nbsp;USB_A-TYPE&amp;nbsp;NMEA&amp;nbsp;OUTPUT&amp;nbsp;5Hz</description>
+	  <!-- 項目簡介 -->
+      <intro>U-BLOXU7(GPSorGLONASS)UART/USBInterfaceBODY=35*46*15mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_686382.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_686382.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_686382.jpg" length="5331" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-U815RCV-GGNS</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 29 Nov 2015 11:20:50 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS MODULE</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSReceiver_DoubleSystem(U-BLOXNEO-M8N)&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz/1602MHz&amp;nbsp;CODE&amp;nbsp;C/ACode&amp;nbsp;SENSITIVITY&amp;nbsp;-160dBm&amp;nbsp;CHANNELS&amp;nbsp;50Channels&amp;nbsp;BODYSIZE&amp;nbsp;35*46*15mm(L*W*H)&amp;nbsp;PATCHAntennaSIZE&amp;nbsp;18*18*04mm&amp;nbsp;SUPPLYPOWERVOTAGE&amp;nbsp;5.0V&amp;nbsp;INTERFACE&amp;nbsp;1_UART(3.3V)_BaudRate:115200&amp;nbsp;&amp;nbsp;&amp;nbsp;2_USB&amp;nbsp;CONNECTOR&amp;nbsp;USB_A-TYPE&amp;nbsp;NMEA&amp;nbsp;OUTPUT&amp;nbsp;5Hz&amp;nbsp;&amp;nbsp;</description>
+	  <!-- 項目簡介 -->
+      <intro>U-BLOXNEO-M8N(GPS/GLONASS)UART/USBInterfaceBODY=35*46*15mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_686390.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>https://www2.u-blox.com/zh/download/documents-a-resources/u-blox-m8-gnss-modules.html</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_686390.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_686390.jpg" length="5331" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>PCI-GGM8AP</title>
+      <!-- 發佈時間 -->
+      <pubDate>Thu, 06 Oct 2016 23:51:02 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS MODULE</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSReceiver(U-BLOXM8M)&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz(GPS)/1561.098MHz(BDS)/1602MHz(GLONASS)&amp;nbsp;CODE&amp;nbsp;C/ACode&amp;nbsp;SENSITIVITY&amp;nbsp;-160dBm&amp;nbsp;CHANNELS&amp;nbsp;50Channels&amp;nbsp;BODYSIZE&amp;nbsp;51*30*3mm(L*W*H)&amp;nbsp;SUPPLYPOWERVOTAGE&amp;nbsp;3.3V&amp;nbsp;INTERFACE&amp;nbsp;USB&amp;nbsp;CONNECTOR&amp;nbsp;MINIPCI&amp;nbsp;NMEAOUTPUT&amp;nbsp;1Hz</description>
+	  <!-- 項目簡介 -->
+      <intro>U-BLOXM8(GPS&amp;amp;BDS&amp;amp;GLONASS)USBInterfaceSIZE=MiniPCICARDApplication:NoteBookiPADNavigationTrackingsystem</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685387.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685387.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685387.jpg" length="6294" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-15110GSM-3G</title>
+      <!-- 發佈時間 -->
+      <pubDate>Fri, 05 Aug 2016 21:32:19 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GSM - LTE4G Antenna</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;850,900,1800,1900,2100MHz-3GANTENNA&amp;nbsp;APPLICATION&amp;nbsp;TrackingSystem</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:800,900,1800,1900,2100MHz-3GANTENNASIZE:130x22.5x6.8mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685424.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685424.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685424.jpg" length="5677" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT14217A-1</title>
+      <!-- 發佈時間 -->
+      <pubDate>Fri, 05 Aug 2016 21:35:33 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSAntenna&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz&amp;nbsp;BODYSIZE&amp;nbsp;14*21*6.8mm&amp;nbsp;AntennaSIZE&amp;nbsp;12x12x4mm&amp;nbsp;CONNECTOR&amp;nbsp;IPEX&amp;nbsp;VCC&amp;nbsp;1.8~3.3V&amp;nbsp;GAIN&amp;nbsp;20dB&amp;nbsp;NOISE&amp;nbsp;0.65dB</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPSANTENNACONNECTOR:IPEXSIZE:14x21.7x6.8mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_686705.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_686705.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_686705.jpg" length="5298" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT14217A-2</title>
+      <!-- 發佈時間 -->
+      <pubDate>Fri, 05 Aug 2016 21:36:00 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSAntenna&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz&amp;nbsp;BODYSIZE&amp;nbsp;14*21*6.8mm&amp;nbsp;AntennaSIZE&amp;nbsp;12x12x4mm&amp;nbsp;CONNECTOR&amp;nbsp;IPEX&amp;nbsp;VCC&amp;nbsp;1.8&amp;nbsp;~3.3V&amp;nbsp;GAIN&amp;nbsp;20dB&amp;nbsp;NOISE&amp;nbsp;0.65dB</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPSANTENNACONNECTOR:IPEXSIZE:14*21.7*6.8mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_686706.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_686706.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_686706.jpg" length="5543" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT25GNSS+IPEX</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 07 Aug 2016 09:32:55 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPS+GLONASSAntenna&amp;nbsp;BODYSIZE&amp;nbsp;25x25x8.5mm&amp;nbsp;AntennaSIZE&amp;nbsp;25x25x4mm&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz&amp;1602MHz&amp;nbsp;GAIN&amp;nbsp;28dB~30dB&amp;nbsp;VCC&amp;nbsp;3.3V&amp;nbsp;RFCoaxialCABLE&amp;nbsp;OD1.13mm&amp;nbsp;RFCONNECTOR&amp;nbsp;&amp;nbsp;IPEX</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPS+GLONASSAntennaOD1.13+ipexBodySize:25x25x8.5mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685438.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685438.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685438.jpg" length="4550" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT25GPS_SMA</title>
+      <!-- 發佈時間 -->
+      <pubDate>Fri, 05 Aug 2016 21:32:56 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSAntenna&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz&amp;nbsp;BODY&amp;nbsp;SIZE&amp;nbsp;45x34x15mm&amp;nbsp;ANTENNASIZE&amp;nbsp;25x25x04mm&amp;nbsp;GAIN&amp;nbsp;28dB~30dB&amp;nbsp;VCC&amp;nbsp;3.3V~5V&amp;nbsp;RFCoaxialCable&amp;nbsp;RG174&amp;nbsp;CONNECTOR&amp;nbsp;SMA.SMB.SMC.FME.TNC.BNC...FAKRA..&amp;nbsp;</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPSAntennaSIZE:45x34x15mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685441.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685441.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685441.jpg" length="5510" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-U815RCV-GBD</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 29 Nov 2015 11:21:47 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS MODULE</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPSReceiver_SmartAntenna(U-BLOXNEO-M8N)&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz/1560.98MHz&amp;nbsp;CODE&amp;nbsp;C/ACode&amp;nbsp;SENSITIVITY&amp;nbsp;-160dBm&amp;nbsp;CHANNELS&amp;nbsp;50Channels&amp;nbsp;BODYSIZE&amp;nbsp;35*46*615mm(L*W*H)&amp;nbsp;AntennaSIZE&amp;nbsp;18*18*4mm&amp;nbsp;SUPPLYPOWERVOTAGE&amp;nbsp;5.0V&amp;nbsp;INTERFACE&amp;nbsp;1_UART(3.3V)_BaudRate:115200&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2_USB&amp;nbsp;CONNECTOR&amp;nbsp;USB_A-TYPE&amp;nbsp;NMEA&amp;nbsp;OUTPUT&amp;nbsp;&amp;nbsp;5Hz</description>
+	  <!-- 項目簡介 -->
+      <intro>U-BLOXNEO-M8N(GPS/北斗)UART/USBInterfaceBODY=35*46*15mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685453.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685453.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685453.jpg" length="5331" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+BNC90度</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:47:47 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+BNC90度</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+BNC90度</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830127.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830127.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830127.jpg" length="5317" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+FME</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:47:30 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+FME</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+FME</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830128.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830128.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830128.jpg" length="7538" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+F接頭</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:47:13 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+F接頭</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+F接頭</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830129.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830129.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830129.jpg" length="5576" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+MCX90度</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:48:09 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+MCX90度</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+MCX90度</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830130.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830130.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830130.jpg" length="5653" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+MMCX90度</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 17:00:56 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+MMCX90度</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+MMCX90度</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830131.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830131.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830131.jpg" length="8651" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+SMA</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:46:22 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+SMA</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+SMA</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830132.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830132.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830132.jpg" length="5107" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+SMA90度</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:46:03 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+SMA90度</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+SMA90度</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830133.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830133.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830133.jpg" length="6295" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+SMB</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:45:43 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+SMB</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+SMB</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830134.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830134.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830134.jpg" length="5244" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+SMB90度</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:45:24 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+SMB90度</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+SMB90度</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830135.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830135.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830135.jpg" length="4924" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+SMB公90度</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:45:02 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+SMB公90度</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+SMB公90度</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830136.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830136.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830136.jpg" length="5846" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>RG174+MMCX</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sat, 06 Aug 2016 16:44:30 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>RF CABLE Assembly</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>RG174+MMCX</description>
+	  <!-- 項目簡介 -->
+      <intro>RG174+MMCX</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_830141.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_830141.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_830141.jpg" length="5206" type="image/jpeg"/>    </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id></id>
+      <!-- 項目標題 -->
+	  <title>FC-AT25GGNS_SMA</title>
+      <!-- 發佈時間 -->
+      <pubDate>Sun, 07 Aug 2016 09:32:42 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category>GPS ANTENNA</category>
+	  <!-- 項目價錢 -->
+      <price>NT$ (Call)</price>
+	  <!-- 項目優惠價 -->
+      <sprice>NT$ (Call)</sprice>
+      <!-- 項目內容 -->
+      <description>&amp;nbsp;TYPE&amp;nbsp;GPS&amp;amp;GLOBASSANTENNA(&amp;nbsp;DoubleBand)&amp;nbsp;BODYSIZE&amp;nbsp;45x34x15mm&amp;nbsp;ANTENNASIZE&amp;nbsp;25x25x04mm&amp;nbsp;RFCoaxialCABLE&amp;nbsp;RG174&amp;nbsp;FREQUENCY&amp;nbsp;1575.42MHz/1602MHz&amp;nbsp;GAIN&amp;nbsp;28dB~30dB&amp;nbsp;VCC&amp;nbsp;3.0~5.0V&amp;nbsp;CONNECTOR&amp;nbsp;SMA.SMB.MCX.FME.TNC.BNC...</description>
+	  <!-- 項目簡介 -->
+      <intro>TYPE:GPS+GLONASSAntennaMOUSESIZE:45x34x15mmWelcomeFactoryCompanyRequestSampletoTestandTrialProduction...</intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/jp/product_685052.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname>関連リンク</hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/jp/product_685052.html</guid>
+      <!-- 商品圖 -->
+      <enclosure url="https://www.foncon.com.tw/images/product_685052.jpg" length="5510" type="image/jpeg"/>    </item>
+    
+  </channel>
+</rss>

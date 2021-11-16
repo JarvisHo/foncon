@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  =============================
+  智邦生活館 - 輕鬆架站 RSS 2.0
+  =============================
+  產生器資訊
+  應用程式: Foresight v0.3.2 RSS 2.0 Generator
+  更新日期: Mar 27 16:41 CST 2007
+-->
+<rss version="2.0">
+  <channel>
+    <!-- 公司名稱 -->
+    <title>鋒剛國際科技有限公司</title>
+    <!-- 公司黃頁網站 -->
+    <link>https://www.foncon.com.tw/</link>
+    <!-- 公司簡介 -->
+    <description>  鋒剛國際科技有限公司成立於西元2008年,是專業的GPS天線及GPS相關電子零組件供應廠商,專注於GPS定位天線模組研發設計製造,品質優良,完全符合RoHS各項嚴格規定FONCONTechnologyCo.,Ltd.wasestablishedin2008.ItisaprofessionalsupplierofGPSantennasandGPS-relatedelectroniccomponents.Itfocusesontheresearchanddevelopment,designandmanufactureofGPSpositioningantennamodules,withexcellentqualityandfullcompliancewiththestrictRoHSregulations.</description>
+    <!-- 文件語言 -->
+    <language>zh</language>
+    <!-- 版權說明 -->
+    <copyright>智邦生活館 版權所有</copyright>
+    <!-- 管理工具 -->
+    <managingEditor>Foresight v0.3.2 RSS 2.0 Generator</managingEditor>
+    <!-- 管理者 -->
+    <webMaster>智邦生活館 網站代管</webMaster>
+    <!-- 出版日期 -->
+    <pubDate>Mon, 15 Nov 2021 16:07:32 CST</pubDate>
+    <!-- 最後製造日期 -->
+    <lastBuildDate>Mon, 15 Nov 2021 16:07:32 CST</lastBuildDate>
+    <!-- 產生器 -->
+    <generator>智邦生活館 版權所有</generator>
+    <!-- 存活時間, 這個頻道會被快取幾分鐘 -->
+    <ttl>10080</ttl>
+	 <!-- 分類列表 -->
+	    <!-- 每一個項目的內容 -->
+        <item>
+	  <!-- 商品流水號 -->
+	  <id>406609</id>
+      <!-- 項目標題 -->
+	  <title>全新設計GPS L1L2L5高精度主動天線</title>
+      <!-- 發佈時間 -->
+      <pubDate>Wed, 03 Nov 2021 11:21:28 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category></category>
+	  <!-- 項目價錢 -->
+      <price></price>
+	  <!-- 項目優惠價 -->
+      <sprice></sprice>
+      <!-- 項目內容 -->
+      <description>最近將推出全新設計GPSL1L2L5高精度主動天線,敬請期待!NewlydesignedGPSL1,L2,L5military-standardhigh-precisionGPSactiveantennaswillbelaunchedinthenearfuture;staytuned</description>
+	  <!-- 項目簡介 -->
+      <intro></intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/hot_406609.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname></hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/hot_406609.html</guid>
+      <!-- 商品圖 -->
+          </item>
+        <item>
+	  <!-- 商品流水號 -->
+	  <id>406608</id>
+      <!-- 項目標題 -->
+	  <title>全新設計GPS L1,L2,L5軍規公分級高精度GPS主動天線</title>
+      <!-- 發佈時間 -->
+      <pubDate>Wed, 03 Nov 2021 11:11:05 +0800</pubDate>
+      <!-- 項目分類 -->
+      <category></category>
+	  <!-- 項目價錢 -->
+      <price></price>
+	  <!-- 項目優惠價 -->
+      <sprice></sprice>
+      <!-- 項目內容 -->
+      <description>近期將推出全新設計GPSL1,L2,L5軍規公分級高精度GPS主動天線;敬請期待!NewlydesignedGPSL1,L2,L5military-standardhigh-precisionGPSactiveantennaswillbelaunchedinthenearfuture;staytuned!</description>
+	  <!-- 項目簡介 -->
+      <intro></intro>
+      <!-- 項目連結 -->
+      <link>https://www.foncon.com.tw/hot_406608.html</link>
+	  <!-- 自訂連結 -->
+	  <href></href>
+	  <hrefname></hrefname>
+      <!-- 唯一識別名稱 -->
+      <guid>https://www.foncon.com.tw/hot_406608.html</guid>
+      <!-- 商品圖 -->
+          </item>
+  </channel>
+</rss>
